@@ -13,6 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.SwingConstants;
 
+//예제 라디오버튼
 public class RadioButtonItemEventEx extends JFrame{
     private String [] text = {"사과 ", "배 ", "체리"};
     private JRadioButton[] radio = new JRadioButton[3];

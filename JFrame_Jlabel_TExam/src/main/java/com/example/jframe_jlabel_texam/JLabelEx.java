@@ -12,7 +12,7 @@ public class JLabelEx extends JFrame {
 
         JLabel jl = new JLabel("사랑합니다");
 
-        ImageIcon icon = new ImageIcon("JFrame_Jlabel_TExam/images/banana.jpg");
+        ImageIcon icon = new ImageIcon("JFrame_Jlabel_TExam/images/beauty.jpg");
         JLabel image = new JLabel(icon);
 
         ImageIcon icon2 = new ImageIcon("JFrame_Jlabel_TExam/images/normalIcon.gif");
