@@ -19,7 +19,6 @@ public class CheckBoxItemEvent extends JFrame {
         setTitle("체크박스예제");
         Container cp = getContentPane();
         cp.setLayout(new FlowLayout());
-
         cp.add(new JLabel("사과 100원,배 500원 체리 20000원"));
 
         MyItemListener listener = new MyItemListener();
